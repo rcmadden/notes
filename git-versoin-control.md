@@ -64,6 +64,16 @@ Git stores configuration options in three separate files, which lets you scope o
     
 When options in these files conflict, local settings override user settings, which override system-wide.
 
+### Personal Access Token
+ERROR:
+```Command line error when attempting to push:
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com...
+```
+SOLUTION: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+
 ## Vocabulary
 commit - the fundamental unit in Git
 
