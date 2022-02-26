@@ -1,2 +1,2 @@
 # notes
-Collection of notes from courses for easy reference.
+Collection of notes from programming books and courses for easy reference.
