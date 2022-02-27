@@ -1,10 +1,8 @@
-# notes
+# Notes
 Collection of programming relatted notes for easy reference.
 
-## Courses
+## Courses <!-- {docsify-ignore-all} -->
 ### Udacity: [Version Control with Git](git-version-control.md)
 
-
 ## Books
-
-### [Creative Problem Solving](creative-problem-solving.md): by V. Anton Spraul
+### [Creative Problem Solving](creative-problem-solving.md): by V. Anton Spraul 
