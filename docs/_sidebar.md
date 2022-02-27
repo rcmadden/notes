@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
-[Home](/)
-[Udacity: Version Control with Git](git-version-control.md)
-[Creative Problem Solving: by V. Anton Spraul](creative-problem-solving.md)
+* [Home](/)
+* [Git Version Control](git-version-control.md)
+* [Creative Problem Solving](creative-problem-solving.md)
