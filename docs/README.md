@@ -1,7 +1,7 @@
-# Notes
+# Notes<!-- {docsify-ignore-all} -->
 Collection of programming related notes for easy reference.
 
-## Courses <!-- {docsify-ignore-all} -->
+## Courses 
 ### Udacity: [Version Control with Git](git-version-control.md)
 
 ## Books
