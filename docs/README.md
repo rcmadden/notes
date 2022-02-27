@@ -1,2 +1,10 @@
 # notes
-Collection of notes from courses for easy reference.
+Collection of programming relatted notes for easy reference.
+
+## Courses
+### Udacity: Version Control with Git
+
+
+## Books
+
+### Creative Problem Solving: V. Anton Spraul
